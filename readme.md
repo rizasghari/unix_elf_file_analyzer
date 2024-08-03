@@ -1,0 +1,1 @@
+A simple Unix-like systems ELF executable file analyzer (dump|debug) written in GoLang
